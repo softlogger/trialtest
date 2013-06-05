@@ -1,1 +1,1 @@
-README at gitHub
+SimpleconflicREAD  at gitHub
