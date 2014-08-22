@@ -1,2 +1,2 @@
-This is the first file for git test edited online and merged with local changes
-Added second line locally
+This is the first file for git test edited online and merged with local changes then modified online again
+Add second line online
